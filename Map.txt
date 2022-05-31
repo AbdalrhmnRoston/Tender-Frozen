@@ -1,0 +1,11 @@
+[1] Type Of Data Items Frozen Saved 
+    * Price
+    * Width Or Size 
+    * Section Count
+
+[2] Type Of Data Items Hoot Seved 
+    * Notafication Order Before 4 PM
+    * Notafication Singel And Family Order
+    * The Spacial Section From One Category
+    * Size From Items 
+    * Spicial Price From All Sizes 
